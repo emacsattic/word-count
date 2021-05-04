@@ -1,4 +1,4 @@
-;;;;; word-count.el - Counting word for Emacsen.
+;;; word-count.el --- Counting word for Emacsen
 ;;
 ;; AUTHOR:  Hiroyuki Komatsu <komatsu@taiyaki.org>
 ;; LICENCE: GPL2
